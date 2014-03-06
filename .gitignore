@@ -1,0 +1,9 @@
+# output
+opsys-exam1-review.pdf
+
+# editor (vim)
+.*.swp
+*~
+
+# OS X
+.DS_Store
